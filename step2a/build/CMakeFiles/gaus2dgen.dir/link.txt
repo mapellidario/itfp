@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgaus2dgen.a  CMakeFiles/gaus2dgen.dir/gaus2dgen.cpp.o
+/usr/bin/ranlib libgaus2dgen.a

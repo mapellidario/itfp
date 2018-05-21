@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/gaus2d.dir/gaus2d.cpp.o  -o gaus2d -rdynamic libgaus2dgen.a 

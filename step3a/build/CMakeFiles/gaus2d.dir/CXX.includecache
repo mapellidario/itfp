@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../gaus2ddir/gaus2dgen.h
+
+/home/dario/docs/1wu/code/c-cpp/itfp/step5/gaus2d.cpp
+gaus2dgen.h
+/home/dario/docs/1wu/code/c-cpp/itfp/step5/gaus2dgen.h
+iostream
+-
+cmath
+-
+

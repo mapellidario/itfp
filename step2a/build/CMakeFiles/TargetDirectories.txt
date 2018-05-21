@@ -1,0 +1,4 @@
+/home/dario/docs/1wu/code/c-cpp/itfp/step2a/build/CMakeFiles/edit_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step2a/build/CMakeFiles/gaus2d.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step2a/build/CMakeFiles/rebuild_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step2a/build/CMakeFiles/gaus2dgen.dir
