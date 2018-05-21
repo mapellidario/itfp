@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/gasu2d.dir/gaus2d.cpp.o  -o gasu2d -rdynamic gaus2ddir/libgaus2dgen.a random/librandom.a 

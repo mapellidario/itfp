@@ -1,0 +1,9 @@
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/CMakeFiles/edit_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/CMakeFiles/rebuild_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/CMakeFiles/gasu2d.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/random/CMakeFiles/rebuild_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/random/CMakeFiles/edit_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/random/CMakeFiles/random.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/gaus2ddir/CMakeFiles/edit_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/gaus2ddir/CMakeFiles/rebuild_cache.dir
+/home/dario/docs/1wu/code/c-cpp/itfp/step4a/build/gaus2ddir/CMakeFiles/gaus2dgen.dir

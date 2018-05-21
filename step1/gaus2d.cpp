@@ -1,5 +1,4 @@
 /*
-g++ -o gaus2d gaus2d.cpp -g 
 */
 
 #include <iostream>
